@@ -4,7 +4,7 @@
 
 # Hi there, I'm Ashwin 👋
 
-🎓 **Student | Aspiring AI & Aerospace Enthusiast**
+🎓 **Student | Aspiring Aerospace Enthusiast**
 
 ---
 
