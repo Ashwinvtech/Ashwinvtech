@@ -16,7 +16,7 @@ Hi, I'm Ashwin—a student passionate about **aerospace** and **astrophysics**, 
 
 ## 🛠️ Skills
 
-- **Languages:** Python (beginner), C++
+- **Languages:** Python (beginner), C++,Matlab
 - **Interests:** Artificial Intelligence, Aerospace, Astrophysics
 - **Other:** Algorithms, Problem Solving, Game Development Basics
 
